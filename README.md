@@ -10,7 +10,7 @@ My main goal is to learn by building practical projects and gradually explore di
 
 | Project | Description | Topics |
 |---|---|---|
-| Currency Converter | A currency converter powered by an LLM using Function Calling. | Python, APIs, Function Calling |
+| [Currency Converter](https://github.com/MohadesehRoohollahi/currency-converter-function-calling) | A currency converter powered by an LLM using Function Calling. | Python, APIs, Function Calling |
 
 More projects will be added as I continue learning.
 
