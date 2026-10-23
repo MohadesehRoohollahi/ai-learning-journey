@@ -11,6 +11,7 @@ My main goal is to learn by building practical projects and gradually explore di
 | Project | Description | Topics |
 |---|---|---|
 | [Currency Converter](https://github.com/MohadesehRoohollahi/currency-converter-function-calling) | A currency converter powered by an LLM using Function Calling. | Python, APIs, Function Calling |
+| [Expense Tracker Assistant](https://github.com/MohadesehRoohollahi/Expense-Tracker-Assistant) | An AI-powered expense tracker that extracts transaction details from natural language using LLM Tool Calling, validates the data, and stores transactions in JSON. | Python, AvalAI API, LLM Tool Calling, JSON |
 
 More projects will be added as I continue learning.
 
